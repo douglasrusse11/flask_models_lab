@@ -33,6 +33,7 @@ a, p, h2 {
     margin-top: 20px;
     align-items: center;
     width: 25%;
+    padding: 10px;
 }
 
 .description-container {
